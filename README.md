@@ -1,5 +1,5 @@
-**Universidad:** Universidad Nacional Autónoma de México  
-**Facultad:** Facultad de Ingeniería  
+# UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO  
+### FACULTAD DE INGENIERÍA  
 **Semestre:** 2026-1  
 **Profesor:** José Roque Román Guadarrama  
 **Grupo:** 3  
