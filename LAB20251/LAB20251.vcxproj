@@ -137,7 +137,7 @@
     <ClCompile Include="C:\Users\rosas\Downloads\opengl 3.3 y dos main\Mesh.cpp" />
     <ClCompile Include="C:\Users\rosas\Downloads\opengl 3.3 y dos main\Shader.cpp" />
     <ClCompile Include="C:\Users\rosas\Downloads\opengl 3.3 y dos main\Window.cpp" />
-    <ClCompile Include="C:\Users\rosas\Downloads\E01-320109766.cpp" />
+    <ClCompile Include="E01-320109766.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
